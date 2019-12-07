@@ -21,7 +21,7 @@ This is basic HTML-page parser. It will send all data to the server, using Fetch
 
 1. Clone the repo or download it into your local machine
 ```sh
-https://github.com/vokhlachev/starwars-ux-ui.git
+https://github.com/vokhlachev/js-parser.git
 ```
 3. Open code in any IDE
 
